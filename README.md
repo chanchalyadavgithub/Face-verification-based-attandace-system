@@ -1,6 +1,6 @@
 # Face Verification Based Attendance System
-Name- Chanchal
-University- IIT ROPAR
+Name- Chanchal,
+University- IIT ROPAR,
 Department- Mechanical
 ## About project
 In this Attendance System the attendance for students is marked using Face verification. The admin has permission to take Attendance, add a student, modify student details. The Faculty can also search for attendance of a student using Multiparameter Search, by searching the student ID, date of attendance, period of Attendance. We can also sort students on the basis of their present or absent status.<br>
